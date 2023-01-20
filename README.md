@@ -84,15 +84,15 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div> -->
+<br>
 
 <div align=center>
-	<span>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)
-	</span>
-	<span>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
-	</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)
 </div>
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
+
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
