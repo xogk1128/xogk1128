@@ -84,7 +84,8 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&langs_count=8)](https://github.com/xogk1128/xogk1128)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128)](https://github.com/xogk1128/github-readme-stats)
 
 <div align=center>
 
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/y2hscmtk)
 </div>
 
 <!-- 	<br> -->
