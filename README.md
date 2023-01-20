@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </div> -->
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
