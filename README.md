@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 	<br>
 </div> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128)](https://github.com/xogk1128/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)
 
 <div align=center>
 
