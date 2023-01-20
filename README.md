@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2hscmtk)](https://solved.ac/y2hscmtk)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/y2hscmtk)
 </div>
 
 
