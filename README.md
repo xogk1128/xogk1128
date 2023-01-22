@@ -90,16 +90,16 @@ Here are some ideas to get you started:
 
  
 <div align=center>
-	<p>Top Langs</p>
+	<h3>Top Langs</h3>
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)
-	<br>
-	<p>Github status</p>
-	![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+	<br>
+	<h3>Github status</h3>
+	![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/y2hscmtk)
+	<br>
+	<p>🏆 Baekjoon solved rank 🏆</p>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/y2hscmtk)
 </div>
 
 <!-- 	<br> -->
