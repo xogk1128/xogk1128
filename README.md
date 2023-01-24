@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 	
 <h3>🏆 Baekjoon solved rank 🏆</h3>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/y2hscmtk)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
 	
 </div>
 
