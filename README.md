@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 	
 <br>
 	
-<h3>Github status</h3>
+<h3>🏆 Github status 🏆</h3>
 	
 ![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
 
