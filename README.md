@@ -67,11 +67,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-
-
-
- 
-<div align=center>
 	
 <!--<h3>Top Langs</h3>-->
 	
@@ -85,7 +80,6 @@ Here are some ideas to get you started:
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
 	
-</div>
 <br>
 
 <!-- ![Taeha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=xogk1128) -->
