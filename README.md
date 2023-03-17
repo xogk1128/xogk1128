@@ -77,13 +77,9 @@ Here are some ideas to get you started:
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)
 	
-<br>
-	
 <h3>🏆 Github status 🏆</h3>
 	
 ![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
-
-<br>
 	
 <h3>🏆 Baekjoon solved rank 🏆</h3>
 	
