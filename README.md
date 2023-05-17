@@ -65,18 +65,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
-<br>
-<h3>Top Langs</h3>
-	
-
-	
-<h3>🏆 Github status 🏆</h3>
 ![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
-	
-<h3>🏆 Baekjoon solved rank 🏆</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
+
+&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)	
+&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
 
 
 <!-- ![Taeha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=xogk1128) -->
