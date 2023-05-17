@@ -66,11 +66,16 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<div align=center>
-	![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
+<br><br>
 
-	&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)	
-	&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
+<div align=center>
+
+![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)	
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
+[![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=xogk1128&theme=dark)](https://solved.ac/xogk1128/)
+	
 </div>
 
 <!-- ![Taeha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=xogk1128) -->
