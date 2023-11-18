@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
  	<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=MQTT&logoColor=white" />
+  	<br>
+   	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
  	
 	
 	
