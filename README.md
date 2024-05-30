@@ -18,7 +18,7 @@ Here are some ideas to get you started
 <!-- <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
 </div> -->
-<div align=center>
+<div align=left>
 	<h3>🛠 Tech Stack 🛠</h3>
 	<p>Techs that I've used at least once</p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
@@ -48,7 +48,7 @@ Here are some ideas to get you started
 	
 	
 </div>
-<div align="center">
+<div align="left">
 	
 <!-- 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> -->
 <!-- 	<br>
@@ -63,10 +63,10 @@ Here are some ideas to get you started
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
 </div>
 <br>
-<div align=center>
+<div align=left>
 	<h2>🛠 Tools 🛠</h2>
 </div>
-<div align=center>
+<div align=left>
 	<img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -81,14 +81,14 @@ Here are some ideas to get you started
 
 <br><br>
 
-<div align=center>
+
 
 ![xogk1128's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogk1128&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xogk1128&layout=compact)](https://github.com/xogk1128/github-readme-stats)	
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
-[![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=xogk1128&theme=dark)](https://solved.ac/xogk1128/)
+&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogk1128)](https://solved.ac/xogk1128)
+&nbsp; [![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=xogk1128&theme=dark)](https://solved.ac/xogk1128/)
 	
-</div>
+
 
 <!-- ![Taeha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=xogk1128) -->
