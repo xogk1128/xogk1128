@@ -64,7 +64,7 @@ Here are some ideas to get you started
 </div>
 <br>
 <div align=left>
-	<h2>🛠 Tools 🛠</h2>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white" />
